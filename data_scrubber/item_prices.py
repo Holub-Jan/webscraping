@@ -1,0 +1,2 @@
+class ItemPrices:
+    pass
